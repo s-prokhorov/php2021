@@ -1,0 +1,5 @@
+Установка WSL - https://docs.microsoft.com/ru-ru/windows/wsl/install
+HTTP Status code - https://httpstatuses.com/
+Docker for windows - https://docs.docker.com/desktop/windows/install/
+Установка и настройка GIT - https://docs.github.com/en/get-started/quickstart/set-up-git
+Игра для понимание GIT - https://learngitbranching.js.org/
